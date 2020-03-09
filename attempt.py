@@ -1,5 +1,4 @@
 import cv2 as cv
-import medpy
 import png
 import SimpleITK as sitk
 import numpy as np
